@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="./walking-cat.gif" width="80" alt="Walking Cat Pixel" />
+<img src="./walking.gif" width="80" alt="Walking Pixel" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 <a name="-about-me"></a>
 ### ✦ ABOUT ME
 
-<img src="./peeking-cat.gif" width="110" align="right" alt="Peeking Cat" />
+<img src="./peeking.gif" width="110" align="right" alt="Peeking" />
 
 Hi there! I'm **Mich**. I'm currently on a journey to learn more about tech and design. I wouldn't call myself a coding pro just yet—I'm still exploring, making mistakes, and figuring things out one project at a time. I really enjoy the creative side of tech, especially UI/UX design and making things look nice and functional!
 
@@ -114,7 +114,7 @@ Hi there! I'm **Mich**. I'm currently on a journey to learn more about tech and 
 
 <!-- Pure HTML alignment to avoid broken markdown render -->
 <p align="center">
-  <img src="./pointing-mich.gif" width="65" align="middle" alt="Pointing Mich" />
+  <img src="./pointing.gif" width="65" align="middle" alt="Pointing" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Discord-mich.afk-5865F2?style=for-the-badge&logo=discord&logoColor=white" align="middle" alt="Discord" />
   &nbsp;&nbsp;
