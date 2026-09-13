@@ -114,7 +114,7 @@ Hi there! I'm **Mich**. I'm currently on a journey to learn more about tech and 
 
 <!-- Pure HTML alignment to avoid broken markdown render -->
 <p align="center">
-  <img src="./pointing-cat.gif" width="65" align="middle" alt="Pointing Cat" />
+  <img src="./pointing-mich.gif" width="65" align="middle" alt="Pointing Mich" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Discord-mich.afk-5865F2?style=for-the-badge&logo=discord&logoColor=white" align="middle" alt="Discord" />
   &nbsp;&nbsp;
