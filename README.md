@@ -13,21 +13,13 @@
 
 <br/>
 
-<a href="#-about-me">
-  <img src="https://img.shields.io/badge/About-FFB7C5?style=for-the-badge&logoColor=white" alt="About" />
-</a>
-&nbsp;
-<a href="#-status">
-  <img src="https://img.shields.io/badge/Status-FFB7C5?style=for-the-badge&logoColor=white" alt="Status" />
-</a>
-&nbsp;
-<a href="#-vibes">
-  <img src="https://img.shields.io/badge/Vibes-FFB7C5?style=for-the-badge&logoColor=white" alt="Vibes" />
-</a>
-&nbsp;
-<a href="#-lets-connect">
-  <img src="https://img.shields.io/badge/Contact-FFB7C5?style=for-the-badge&logoColor=white" alt="Contact" />
-</a>
+<a href="#-about"><font color="#FFB7C5"><b>About</b></font></a>
+&nbsp;·&nbsp;
+<a href="#-focus"><font color="#FFB7C5"><b>Focus</b></font></a>
+&nbsp;·&nbsp;
+<a href="#-extras"><font color="#FFB7C5"><b>Extras</b></font></a>
+&nbsp;·&nbsp;
+<a href="#-contact"><font color="#FFB7C5"><b>Contact</b></font></a>
 
 <br/><br/>
 
@@ -43,8 +35,8 @@
 
 ---
 
-<a name="-about-me"></a>
-### ✦ WELCOME TO MY NOOK
+<a name="-about"></a>
+### ✦ ABOUT
 
 <img src="./peeking.gif" width="110" align="right" alt="Peeking" />
 
@@ -62,8 +54,8 @@ This is my personal space to document the things I build, experiment with, and e
 
 ---
 
-<a name="-status"></a>
-### ✦ LIVE STATUS & FOCUS
+<a name="-focus"></a>
+### ✦ FOCUS
 
 <div align="center">
 
@@ -83,8 +75,8 @@ This is my personal space to document the things I build, experiment with, and e
 
 ---
 
-<a name="-vibes"></a>
-### ✦ VIBES
+<a name="-extras"></a>
+### ✦ EXTRAS
 
 <div align="center">
 
@@ -97,11 +89,13 @@ This is my personal space to document the things I build, experiment with, and e
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=ffccec&interchange=true&profanity=false&hide_remaster=false&bar_color=65cefb&bar_color_cover=false" alt="Spotify Profile" />
       </a>
     </td>
-    <td align="center" width="45%" valign="middle" style="border: none; background: transparent;">
-      <img src="https://komarev.com/ghpvc/?username=michandhercode&color=89CFF0&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/followers/michandhercode?label=Followers&style=flat-square&color=FFB7B2&logo=github&logoColor=white" alt="GitHub Followers" />
-    </td>
+
+  <td align="center" width="45%" valign="middle" style="border: none; background: transparent;">
+    <img src="https://komarev.com/ghpvc/?username=michandhercode&color=89CFF0&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
+    <br/><br/>
+    <img src="https://img.shields.io/github/followers/michandhercode?label=Followers&style=flat-square&color=FFB7B2&logo=github&logoColor=white" alt="GitHub Followers" />
+  </td>
+
   </tr>
 </table>
 
@@ -111,8 +105,8 @@ This is my personal space to document the things I build, experiment with, and e
 
 ---
 
-<a name="-lets-connect"></a>
-### ✦ LET'S CONNECT
+<a name="-contact"></a>
+### ✦ CONTACT
 
 <div align="center">
 
