@@ -84,7 +84,6 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
     </td>
     <td valign="center" width="50%" align="center">
       <b>▪ Play Tic-Tac-Toe!</b><br/><br/>
-      <!-- Interactive Tic Tac Toe Board -->
       <a href="https://github.com/michandhercode/michandhercode/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27+to+make+your+move!">
         <img src="https://raw.githubusercontent.com/michandhercode/michandhercode/main/tictactoe/board.svg" width="250" alt="Tic Tac Toe Game" />
       </a>
