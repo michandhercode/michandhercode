@@ -13,7 +13,21 @@
 
 <br/>
 
-[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Status** ](#-status) &nbsp;·&nbsp; [ **Vibes** ](#-vibes) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/About-FFB7C5?style=for-the-badge&logoColor=white" alt="About" />
+</a>
+&nbsp;
+<a href="#-status">
+  <img src="https://img.shields.io/badge/Status-FFB7C5?style=for-the-badge&logoColor=white" alt="Status" />
+</a>
+&nbsp;
+<a href="#-vibes">
+  <img src="https://img.shields.io/badge/Vibes-FFB7C5?style=for-the-badge&logoColor=white" alt="Vibes" />
+</a>
+&nbsp;
+<a href="#-lets-connect">
+  <img src="https://img.shields.io/badge/Contact-FFB7C5?style=for-the-badge&logoColor=white" alt="Contact" />
+</a>
 
 <br/><br/>
 
