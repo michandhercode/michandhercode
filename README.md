@@ -27,7 +27,7 @@
 
 <br/>
 
-*“Coffee in hand, curiosity on high, building whenever inspiration strikes.”*
+*“You do not need to debug your entire life in one day, so give yourself permission to run the script slowly, make mistakes in the code, and just show up for the next line.”*
 
 </div>
 
