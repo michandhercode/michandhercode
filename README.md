@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/michandhercode">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mich!;Welcome+to+my+cozy+tech+nook;Exploring+AI+%26+UI%2FUX;Learning+slowly,+building+happily!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mich!;Welcome+to+my+cozy+tech+nook;Software+Development+%C3%97+AI%2FML;Exploring+what+I+can+build+next!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,9 +36,13 @@
 
 Hey! I'm **Mich** ✨
 
-I treat coding as my personal digital playground. I'm currently dipping my toes into **AI and Machine Learning**—not as a hardcore 24/7 dev, but as a curious creative who loves figuring out how clever algorithms work. 
+I'm a **4th-year IT student majoring in Software Development**, with a growing interest in **Artificial Intelligence and Machine Learning**.
 
-When I'm here, I'm usually making mistakes, designing soft interfaces, learning Python at my own pace, or testing fun mini-ideas without the stress of constant commit streaks!
+Throughout my journey in software development, I've had the opportunity to work on different kinds of projects, explore application development, databases, and UI/UX, and experience the process of turning ideas into working applications. Along the way, I became increasingly curious about **AI/ML** and how intelligent technologies can be integrated into the software we build.
+
+I'm currently exploring **Python, machine learning fundamentals, and the mathematics behind ML**, while continuing to strengthen my foundation in software development and design.
+
+This is my personal space to document the things I build, experiment with, and explore as I continue growing as a developer. ☁️
 
 <br/>
 
@@ -52,12 +56,12 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 <br/>
 
 ![Current Mood](https://img.shields.io/badge/Current%20Mood-Curious%20%26%20Chilling-5B92E5?style=for-the-badge&logoColor=white)
-![Quest Status](https://img.shields.io/badge/AI%20Quest-Leveling%20Up%20Python-FFB7B2?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML Focus](https://img.shields.io/badge/AI%2FML-Exploring%20New%20Possibilities-FFB7B2?style=for-the-badge&logo=python&logoColor=white)
 ![Design Vibe](https://img.shields.io/badge/Design-UI%2FUX%20Playground-E2F0CB?style=for-the-badge&logo=figma&logoColor=black)
 
 <br/><br/>
 
-✧ **Currently Exploring:** Python Foundations &nbsp;·&nbsp; Math for ML &nbsp;·&nbsp; Soft UI/UX Design ✧
+✧ **Currently Exploring:** AI/ML · Python · Software Development · UI/UX ✧
 
 </div>
 
