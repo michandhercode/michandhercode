@@ -27,7 +27,7 @@
 
 <br/>
 
-*“You do not need to debug your entire life in one day, so give yourself permission to run the script slowly, make mistakes in the code, and just show up for the next line.”*
+*“Stop waiting for a flawless compile and just hit run, because your life doesn't need to be bug-free to be worth living.”*
 
 </div>
 
