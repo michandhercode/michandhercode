@@ -12,7 +12,6 @@
 
 <br/>
 
-<!-- Navigation -->
 [ **About** ](#-about-me) &nbsp;·&nbsp; [ **Status** ](#-status) &nbsp;·&nbsp; [ **Interactive & Vibes** ](#-interactive--vibes) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
 
 <br/><br/>
@@ -85,7 +84,7 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
     <td valign="center" width="50%" align="center">
       <b>▪ Play Tic-Tac-Toe!</b><br/><br/>
       <a href="https://github.com/michandhercode/michandhercode/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27+to+make+your+move!">
-        <img src="https://raw.githubusercontent.com/michandhercode/michandhercode/main/tictactoe/board.svg" width="250" alt="Tic Tac Toe Game" />
+        <img src="./tictactoe/board.svg" width="250" alt="Tic Tac Toe Game" />
       </a>
       <br/><br/>
       <sub><i>✧ Click any cell to make a move! ✧</i></sub>
