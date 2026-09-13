@@ -72,11 +72,20 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 <br/>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=ffccec&interchange=true&profanity=false&hide_remaster=false&bar_color=65cefb&bar_color_cover=false" alt="Spotify Profile" />
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" width="55%" valign="middle" style="border: none; background: transparent;">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=ffccec&interchange=true&profanity=false&hide_remaster=false&bar_color=65cefb&bar_color_cover=false" alt="Spotify Profile" />
+      </a>
+    </td>
+    <td align="center" width="45%" valign="middle" style="border: none; background: transparent;">
+      <img src="https://komarev.com/ghpvc/?username=michandhercode&color=89CFF0&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/followers/michandhercode?label=Followers&style=flat-square&color=FFB7B2&logo=github&logoColor=white" alt="GitHub Followers" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
