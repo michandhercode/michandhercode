@@ -13,7 +13,7 @@
 
 <br/>
 
-[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Status** ](#-status) &nbsp;·&nbsp; [ **Interactive & Vibes** ](#-interactive--vibes) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
+[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Status** ](#-status) &nbsp;·&nbsp; [ **Vibes** ](#-vibes) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
 
 <br/><br/>
 
@@ -65,33 +65,20 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 ---
 
-<a name="-interactive--vibes"></a>
-### ✦ INTERACTIVE & VIBES
+<a name="-vibes"></a>
+### ✦ VIBES
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="center" width="50%" align="center">
-      <b>▪ On My Headphones:</b><br/><br/>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" />
-          <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=007acc&bar_color_cover=false" />
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" alt="Spotify Currently Playing" width="280" />
-        </picture>
-      </a>
-    </td>
-    <td valign="center" width="50%" align="center">
-      <b>▪ Play Tic-Tac-Toe!</b><br/><br/>
-      <a href="https://playtictactoe.org/">
-        <img src="https://img.shields.io/badge/🎮_Play_Tic--Tac--Toe-Click_to_Play-89CFF0?style=for-the-badge&logoColor=white" alt="Play Game" />
-      </a>
-      <br/><br/>
-      <sub><i>✧ Opens a clean mini-game tab! ✧</i></sub>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=007acc&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" alt="Spotify Currently Playing" width="380" />
+  </picture>
+</a>
 
 </div>
 
