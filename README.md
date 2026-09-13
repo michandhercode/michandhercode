@@ -1,4 +1,5 @@
 <div align="center">
+  <div id="top"></div>
   <img src="./header-banner.GIF" width="100%" alt="Header Banner" />
 </div>
 
@@ -117,6 +118,6 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 <br/><br/>
 
-<a href="#"><b>[ ^ Return to Top ]</b></a>
+<a href="#top"><b>[ ^ Return to Top ]</b></a>
 
 </div>
