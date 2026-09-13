@@ -74,7 +74,7 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=true&profanity=false&hide_remaster=false&bar_color=89cff0" alt="Spotify Profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=transparent&interchange=true&profanity=false&hide_remaster=false&bar_color=89cff0" alt="Spotify Profile" />
   </a>
 </p>
 
