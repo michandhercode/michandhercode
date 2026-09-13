@@ -51,7 +51,7 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 <br/>
 
-![Current Mood](https://img.shields.io/badge/Current%20Mood-Curious%20%26%20Chilling-89CFF0?style=for-the-badge&logoColor=white)
+![Current Mood](https://img.shields.io/badge/Current%20Mood-Curious%20%26%20Chilling-5B92E5?style=for-the-badge&logoColor=white)
 ![Quest Status](https://img.shields.io/badge/AI%20Quest-Leveling%20Up%20Python-FFB7B2?style=for-the-badge&logo=python&logoColor=white)
 ![Design Vibe](https://img.shields.io/badge/Design-UI%2FUX%20Playground-E2F0CB?style=for-the-badge&logo=figma&logoColor=black)
 
@@ -74,7 +74,7 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=transparent&interchange=true&profanity=false&hide_remaster=false&bar_color=89cff0" alt="Spotify Profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=transparent&interchange=true&profanity=false&hide_remaster=false&bar_color=5B92E5" alt="Spotify Profile" />
   </a>
 </p>
 
