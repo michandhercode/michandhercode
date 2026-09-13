@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Navigation -->
-[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Skills** ](#-skills--tools) &nbsp;·&nbsp; [ **Metrics** ](#-github-metrics) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
+[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Skills** ](#-skills--tools) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
 
 <br/><br/>
 
@@ -86,25 +86,6 @@ Hi there! I'm **Mich**. I'm currently on a journey to learn more about tech and 
 
 ---
 
-<a name="-github-metrics"></a>
-### ✦ GITHUB METRICS
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michandhercode&theme=tokyonight&background=0D1117&border=89CFF0&stroke=89CFF0&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0" alt="GitHub Streak" height="170" />
-
-<br/><br/>
-
-<!-- Working Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michandhercode&theme=github-dark&bg_color=0D1117&color=89CFF0&line=89CFF0&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
----
-
 <a name="-lets-connect"></a>
 ### ✦ LET'S CONNECT
 
@@ -112,7 +93,6 @@ Hi there! I'm **Mich**. I'm currently on a journey to learn more about tech and 
 
 <br/>
 
-<!-- Pure HTML alignment to avoid broken markdown render -->
 <p align="center">
   <img src="./pointing.gif" width="65" align="middle" alt="Pointing" />
   &nbsp;&nbsp;
