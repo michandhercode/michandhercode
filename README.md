@@ -83,11 +83,11 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
     </td>
     <td valign="center" width="50%" align="center">
       <b>▪ Play Tic-Tac-Toe!</b><br/><br/>
-      <a href="https://github.com/michandhercode/michandhercode/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27+to+make+your+move!">
-        <img src="./tictactoe/board.svg" width="250" alt="Tic Tac Toe Game" />
+      <a href="https://playtictactoe.org/">
+        <img src="https://img.shields.io/badge/🎮_Play_Tic--Tac--Toe-Click_to_Play-89CFF0?style=for-the-badge&logoColor=white" alt="Play Game" />
       </a>
       <br/><br/>
-      <sub><i>✧ Click any cell to make a move! ✧</i></sub>
+      <sub><i>✧ Opens a clean mini-game tab! ✧</i></sub>
     </td>
   </tr>
 </table>
