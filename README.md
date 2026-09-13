@@ -7,13 +7,13 @@
 <div align="center">
 
 <a href="https://github.com/michandhercode">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mich!;Building+to+learn+%26+improve;Exploring+tech,+design,+and+UI%2FUX;Welcome+to+my+bubbly+corner!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&pause=1000&color=89CFF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mich!;Welcome+to+my+cozy+tech+nook;Exploring+AI+%26+UI%2FUX;Learning+slowly,+building+happily!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Navigation -->
-[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Skills** ](#-skills--tools) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
+[ **About** ](#-about-me) &nbsp;·&nbsp; [ **Status** ](#-status) &nbsp;·&nbsp; [ **Interactive & Vibes** ](#-interactive--vibes) &nbsp;·&nbsp; [ **Contact** ](#-lets-connect)
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-*“Building to learn, improve my skills, and bring fun projects to life.”*
+*“Coffee in hand, curiosity on high, building whenever inspiration strikes.”*
 
 </div>
 
@@ -30,55 +30,69 @@
 ---
 
 <a name="-about-me"></a>
-### ✦ ABOUT ME
+### ✦ WELCOME TO MY NOOK
 
 <img src="./peeking.gif" width="110" align="right" alt="Peeking" />
 
-Hi there! I'm **Mich**. I'm currently on a journey to learn more about tech and design. I wouldn't call myself a coding pro just yet—I'm still exploring, making mistakes, and figuring things out one project at a time. I really enjoy the creative side of tech, especially UI/UX design and making things look nice and functional!
+Hey! I'm **Mich** ✨
 
-<br/>
+I treat coding as my personal digital playground. I'm currently dipping my toes into **AI and Machine Learning**—not as a hardcore 24/7 dev, but as a curious creative who loves figuring out how clever algorithms work. 
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>▪ What I'm Doing Right Now:</b><br/><br/>
-      ✧ Learning step-by-step & building small projects<br/>
-      ✧ Practicing UI/UX & web design<br/>
-      ✧ Exploring beginner-friendly ideas & tools
-    </td>
-    <td valign="top" width="50%">
-      <b>▪ Current Interests:</b><br/><br/>
-      ✧ UI/UX design & layout experiments<br/>
-      ✧ Web development fundamentals<br/>
-      ✧ Open-source & beginner hackathons
-    </td>
-  </tr>
-</table>
+When I'm here, I'm usually making mistakes, designing soft interfaces, learning Python at my own pace, or testing fun mini-ideas without the stress of constant commit streaks!
 
 <br/>
 
 ---
 
-<a name="-skills--tools"></a>
-### ✦ SKILLS & TOOLS
-
-*(Based on what I actually use and experiment with!)*
+<a name="-status"></a>
+### ✦ LIVE STATUS & FOCUS
 
 <div align="center">
 
 <br/>
 
-<!-- Skills -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Current Mood](https://img.shields.io/badge/Current%20Mood-Curious%20%26%20Chilling-89CFF0?style=for-the-badge&logoColor=white)
+![Quest Status](https://img.shields.io/badge/AI%20Quest-Leveling%20Up%20Python-FFB7B2?style=for-the-badge&logo=python&logoColor=white)
+![Design Vibe](https://img.shields.io/badge/Design-UI%2FUX%20Playground-E2F0CB?style=for-the-badge&logo=figma&logoColor=black)
+
+<br/><br/>
+
+✧ **Currently Exploring:** Python Foundations &nbsp;·&nbsp; Math for ML &nbsp;·&nbsp; Soft UI/UX Design ✧
+
+</div>
+
+<br/>
+
+---
+
+<a name="-interactive--vibes"></a>
+### ✦ INTERACTIVE & VIBES
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="center" width="50%" align="center">
+      <b>▪ On My Headphones:</b><br/><br/>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" />
+          <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=007acc&bar_color_cover=false" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" alt="Spotify Currently Playing" width="280" />
+        </picture>
+      </a>
+    </td>
+    <td valign="center" width="50%" align="center">
+      <b>▪ Play Tic-Tac-Toe!</b><br/><br/>
+      <!-- Interactive Tic Tac Toe Board -->
+      <a href="https://github.com/michandhercode/michandhercode/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27+to+make+your+move!">
+        <img src="https://raw.githubusercontent.com/michandhercode/michandhercode/main/tictactoe/board.svg" width="250" alt="Tic Tac Toe Game" />
+      </a>
+      <br/><br/>
+      <sub><i>✧ Click any cell to make a move! ✧</i></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
