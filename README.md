@@ -72,13 +72,11 @@ When I'm here, I'm usually making mistakes, designing soft interfaces, learning 
 
 <br/>
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=007acc&bar_color_cover=false" />
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=89cff0&bar_color_cover=false" alt="Spotify Currently Playing" width="380" />
-  </picture>
-</a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22icwat2zkxa7pbtmldbwwiii&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=true&profanity=false&hide_remaster=false&bar_color=89cff0" alt="Spotify Profile" />
+  </a>
+</p>
 
 </div>
 
