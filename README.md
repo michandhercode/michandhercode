@@ -42,13 +42,11 @@
 
 Hey! I'm **Mich** ✨
 
-I'm a **4th-year IT student majoring in Software Development**, with a growing interest in **Artificial Intelligence and Machine Learning**.
+I'm an **IT student specializing in Software Development**, with a growing focus on **Artificial Intelligence and Machine Learning**. 
 
-Throughout my journey in software development, I've had the opportunity to work on different kinds of projects, explore application development, databases, and UI/UX, and experience the process of turning ideas into working applications. Along the way, I became increasingly curious about **AI/ML** and how intelligent technologies can be integrated into the software we build.
+I enjoy turning ideas into working applications and exploring backend systems, databases, and UI/UX. Currently, I'm diving into Python, machine learning fundamentals, and the math behind intelligent technologies. 
 
-I'm currently exploring **Python, machine learning fundamentals, and the mathematics behind ML**, while continuing to strengthen my foundation in software development and design.
-
-This is my personal space to document the things I build, experiment with, and explore as I continue growing as a developer. ☁️
+This is my personal space to document what I build, experiment with, and explore as I grow as a developer. ☁️
 
 <br/>
 
