@@ -42,11 +42,9 @@
 
 Hey! I'm **Mich** ✨
 
-I'm an **IT student specializing in Software Development**, with a growing focus on **Artificial Intelligence and Machine Learning**. 
+I'm an **IT student specializing in Software Development**. 
 
-I enjoy turning ideas into working applications and exploring backend systems, databases, and UI/UX. Currently, I'm diving into Python, machine learning fundamentals, and the math behind intelligent technologies. 
-
-This is my personal space to document what I build, experiment with, and explore as I grow as a developer. ☁️
+This is my personal space to document my projects and experiments as I grow as a developer. ☁️
 
 <br/>
 
